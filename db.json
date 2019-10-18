@@ -6,7 +6,7 @@
             "lastName":"Doe",
             "email":"john@mail.com",
             "age":34,
-            "companyId":"1"
+            "companyId":"1",
         },
         {
             "id":"2",
@@ -14,15 +14,15 @@
             "lastName":"Skrebets",
             "email":"skr@mail.com",
             "age":20,
-            "companyId":"1"
-        }
+            "companyId":"1",
+        },
     ],
     "companies":[
         {
             "id":"1",
             "name":"Apple",
             "description":"lalalalal   alalalal alcfkeiutg4eiwuagfvbewifhgreirygeuiagf"
-        }
-    ]
+        },
+    ],
 }
 
