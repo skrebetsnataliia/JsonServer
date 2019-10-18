@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "firstName": "John",
+      "lastName":"Doe",
+      "email":"test@mail.com"
     }
   ],
   "profile": {
