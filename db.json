@@ -4,10 +4,14 @@
       "id": 1,
       "firstName": "John",
       "lastName":"Doe",
-      "email":"test@mail.com"
+      "email":"test@mail.com",
+      "password":"111111"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "tasks": [
+    {"name":"Task1",
+     "description":"To do",
+     "userId":1
+    }
+  ]
 }
