@@ -1,7 +1,7 @@
 {
   "players":[
   {
-    "id":1
+    "id":1,
     "name" :"lionel messi",
     "photo":"../../assets/lionel-messi-png-12006.png",
     "birth":"24 June 1987, 	Rosario, Argentina",
@@ -12,7 +12,7 @@
 
     },
     {
-      "id":2
+      "id":2,
       "name" : "Cristiano Ronaldo",
       "photo":"../../assets/fifa-2018-png-17514.png",
       "birth":"5 February 1985, 	Funchal, Madeira, Portugal",
