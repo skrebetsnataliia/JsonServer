@@ -2,7 +2,7 @@
   "players":[
   {
     "id":1
-    "name":"lionel messi",
+    "name" :"lionel messi",
     "photo":"../../assets/lionel-messi-png-12006.png",
     "birth":"24 June 1987, 	Rosario, Argentina",
     "height":"1.70 m",
