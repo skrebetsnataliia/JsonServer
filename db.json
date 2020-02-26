@@ -9,7 +9,6 @@
     "currentTeam":"Barcelona",
     "games":748,
     "goals":637
-
     },
     {
       "id":2,
@@ -20,5 +19,6 @@
       "currentTeam":"Juventus",
       "games":824,
       "goals":626
-    }]
+    }
+  ]
 }
