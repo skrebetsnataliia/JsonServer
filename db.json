@@ -1,17 +1,21 @@
 {
-  "users": [
+  {
+    'name':"lionel messi",
+    'photo':"../../assets/lionel-messi-png-12006.png",
+    'birth':'24 June 1987, 	Rosario, Argentina',
+    'height':'1.70 m',
+    'currentTeam':'Barcelona',
+    'games':748,
+    'goals':637
+
+    },
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName":"Doe",
-      "email":"test@mail.com",
-      "password":"111111"
+      'name':"Cristiano Ronaldo",
+      'photo':"../../assets/fifa-2018-png-17514.png",
+      'birth':'5 February 1985, 	Funchal, Madeira, Portugal',
+      'height':'1.87 m',
+      'currentTeam':'Juventus',
+      'games':824,
+      'goals':626
     }
-  ],
-  "tasks": [
-    {"name":"Task1",
-     "description":"To do",
-     "userId":1
-    }
-  ]
 }
