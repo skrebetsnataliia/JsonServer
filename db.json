@@ -1,11 +1,14 @@
 {
-  "users": [
+  "players": [
     {
       "id": 1,
-      "firstName": "John",
-      "lastName":"Doe",
-      "email":"test@mail.com",
-      "password":"111111"
+      "name":"Cristiano Ronaldo",
+      "photo":"../../assets/fifa-2018-png-17514.png",
+      "birth":"5 February 1985, 	Funchal, Madeira, Portugal",
+      "height":"1.87 m",
+      "currentTeam":"Juventus",
+      "games":824,
+      "goals":626
     }
   ]
 }
